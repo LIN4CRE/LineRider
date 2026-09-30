@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Bold curved physics track line -->
+    <path
+        android:pathData="M24,42 C36,44 46,56 56,70 C64,80 74,84 86,82"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Sled runner blade -->
+    <path
+        android:pathData="M44,52 L60,71 C62,73.5 65,74 67,72"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round" />
+
+    <!-- Sled struts -->
+    <path
+        android:pathData="M48,56 L51,52 M56,66 L59,62"
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round" />
+
+    <!-- Sled top board -->
+    <path
+        android:pathData="M47,50 L63,69"
+        android:strokeColor="#FFAB00"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <!-- Rider body / torso (leaning forward) -->
+    <path
+        android:pathData="M52,48 L58,42"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Rider head / helmet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,38 A 4.5,4.5 0 1,1 61,37.9 Z" />
+
+    <!-- Rider arms holding sled -->
+    <path
+        android:pathData="M55,44 L62,56"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round" />
+
+    <!-- Rider legs on sled -->
+    <path
+        android:pathData="M50,50 L46,55"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round" />
+
+    <!-- Signature fluttering red scarf! (classic Line Rider hallmark) -->
+    <path
+        android:pathData="M57,43 C51,40 45,43 38,38 C34,34 28,37 25,35"
+        android:strokeColor="#FF1744"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

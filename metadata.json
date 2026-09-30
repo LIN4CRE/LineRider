@@ -1,0 +1,6 @@
+{
+  "name": "Line Rider",
+  "description": "Physics sledding sandbox where players draw custom tracks with smooth tools, loops, boosts, and sled ragdoll physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
